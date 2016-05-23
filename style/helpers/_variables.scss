@@ -1,0 +1,32 @@
+//  basic rwd
+$break-small: "only screen and (max-width: 480px)";
+$break-medium: "only screen and (max-width: 768px)";
+$break-large: "only screen and (max-width: 1024px)";
+//colors
+$white: #fff;
+$logo: #ffc155;
+$blue: #709dca;
+$opinion: #f6f3f3;
+$basic-footer: #273a43;
+$footer: #273a43;
+
+$about1: $logo;
+$about-btn: #e7ad48;
+$about-btn-border: #cb8d21;
+
+$work-underline: $logo;
+$work-tabs-li: #062033;
+
+$testimonials: #f6f3f3;
+
+$footer-top: #273a43;
+$footer-bottom: #172227;
+$footer-txt: #c4c4c4;
+
+$mobile-menu: $footer-top;
+$mobile-menu-hover: $footer-bottom;
+// fonts
+
+$lato: 'Lato', sans-serif;
+$open-sans: 'Open Sans', sans-serif;
+$pacifico: 'Pacifico', cursive;

@@ -1,0 +1,22 @@
+%section__head {
+	color: $blue;
+	font-size: 1.3rem;
+}
+
+%btn {
+	display: block;
+	text-decoration: none;
+	color: $white;
+	font-size: 1rem;
+	// font-weight: bold;
+	// background: $blue;
+	padding: 16px 14px;
+
+}
+
+%head--title {
+	color: $blue;
+	font-size: 1.6rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
